@@ -1,0 +1,7 @@
+{
+    "database": "database.db",
+    "login_route": "/login",
+    "attendance_route": "/mark_attendance",
+    "flask_debug": true
+  }
+  
